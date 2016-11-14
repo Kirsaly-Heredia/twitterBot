@@ -47,5 +47,5 @@ function tweet() {
   
 }
 
-setInterval(tweet, 1000 * 60 * 5);
+setInterval(tweet, 1000 * 60 * 15);
 tweet();
